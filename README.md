@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ffrasson
+- 👀 I’m interested in Information Technology, Web Developer, Digital Nomad.
+- 🌱 I’m currently learning Developer Full Stack in Coder House: HTML, CSS, JavaScript, React JS, Back-End.
+- 💞️ I’m looking to collaborate on BioTechnology.
+- 📫 How to reach me: https://github.com/ffrasson, fernando.frasson@gmail.com, +5491130013373, https://www.linkedin.com/in/fernando-frasson/
